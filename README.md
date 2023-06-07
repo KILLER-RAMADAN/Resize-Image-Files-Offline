@@ -22,4 +22,8 @@
 ![Screenshot 2023-06-07 162424](https://github.com/KILLER-RAMADAN/Resize-Image-Files-Offline/assets/90656786/59be14de-9868-4bc6-a361-314cf32d3ef4)
 
 
+#Preview
+
+https://github.com/KILLER-RAMADAN/Resize-Image-Files-Offline/assets/90656786/b85bcf7f-05b3-4256-a0e3-af7497a773d7
+
 
