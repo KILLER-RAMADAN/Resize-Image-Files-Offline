@@ -4,7 +4,8 @@
 
 # All Access With Your Photo
 
-![Screenshot 2023-06-07 162128](https://github.com/KILLER-RAMADAN/Resize-Image-Files-Offline/assets/90656786/a04e016b-025a-4bef-aef5-05440ac294b7)
+![Screenshot 2023-06-07 163244](https://github.com/KILLER-RAMADAN/Resize-Image-Files-Offline/assets/90656786/14f36d7a-4c7a-4252-a36c-a2bf9e9f12cc)
+
 
 
 
